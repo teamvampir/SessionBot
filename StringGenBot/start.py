@@ -12,7 +12,7 @@ async def start(bot: Client, msg: Message):
     me2 = (await bot.get_me()).mention
     await bot.send_message(
         chat_id=msg.chat.id,
-        text=f"""Hᴇʏ {msg.from_user.mention},
+        text=f"""[!](https://te.legra.ph/file/7ab7d5a4ca9aadfef8943.jpg)Hᴇʏ {msg.from_user.mention},
 
 Tʜɪs ɪs {me2},
 
@@ -23,13 +23,9 @@ Tʜɪs ɪs {me2},
 ★ ʏᴏᴜ ᴄᴀɴ ɢᴇɴᴇʀᴀᴛᴇ ᴀɴʏ ᴠᴇʀꜱɪᴏɴ ᴏꜰ ꜱᴇꜱꜱɪᴏɴ
 ★ʏᴏᴜ ᴄᴀɴ ᴇᴀꜱɪʟʏ ɢᴇɴʀᴇᴀᴛᴇ ᴛʜᴇ  ꜱᴇꜱꜱɪᴏɴ ᴠɪᴀ ʙᴏᴛ ᴛᴏᴋᴇɴ
 
-Mᴀᴅᴇ ᴡɪᴛʜ  : [✶ ᴛᴇᴀᴍ ᴠᴀᴍᴘɪʀᴇ ɴᴇᴛᴡᴏʀᴋ ✶](https://t.me/TEAM_VAMPIR) [!](https://te.legra.ph/file/7ab7d5a4ca9aadfef8943.jpg)""",
+Mᴀᴅᴇ ᴡɪᴛʜ  : [✶ ᴛᴇᴀᴍ ᴠᴀᴍᴘɪʀᴇ ɴᴇᴛᴡᴏʀᴋ ✶](https://t.me/TEAM_VAMPIR) """,
         reply_markup=InlineKeyboardMarkup(
             [
-                [
-                    InlineKeyboardButton("✨ ꜱᴜᴘᴘᴏʀᴛᴇʀꜱ ✨", url="tg://settings"),
-                    InlineKeyboardButton("✨ ᴀʙᴏᴜᴛ✨", callback_data="about"),
-                ],
                 [
                      InlineKeyboardButton(text="🪄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🪄", callback_data="generate"),
                 ]
