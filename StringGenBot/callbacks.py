@@ -36,7 +36,7 @@ async def _callbacks(bot: Client, callback_query: CallbackQuery):
             await callback_query.message.reply(ERROR_MESSAGE.format(str(e)))
 
     elif query == "about":
-                await msg.reply_photo(
+                await Message.reply_photo(
                     photo="https://te.legra.ph/file/7ab7d5a4ca9aadfef8943.jpg", caption=f"ɪ ᴀᴍ ᴀ ᴘᴀʀᴛ ᴏꜰ ᴛᴇᴀᴍ ᴠᴀᴍᴘɪʀᴇ ɴᴇᴛᴡᴏʀᴋ , ᴀɴᴅ ɪ ᴘᴏᴡᴇʀꜰᴜʟ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ",
                     reply_markup=InlineKeyboardMarkup(
                         [
