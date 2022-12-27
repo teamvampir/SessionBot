@@ -3,7 +3,7 @@
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/Teamvampir"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦-blue"></a>
+
  
 [![Stars](https://img.shields.io/github/stars/Teamvampir/sessionbot?style=social)](https://github.com/Teamvampir/sessionbot/stargazers)
   [![Forks](https://img.shields.io/github/forks/Teamvampir/sessionbot?style=social)](https://github.com/Teamvampir/sessionbot/fork)
