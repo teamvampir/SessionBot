@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://telegra.ph/file/654ddaf472f18b799600b.jpg" alt="StringGen">
+  <img src="https://te.legra.ph/file/7ab7d5a4ca9aadfef8943.jpg" alt="StringGen">
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/AnonymousX1025"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦-blue"></a>
+  <a href="https://github.com/Teamvampir"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦-blue"></a>
  
-[![Stars](https://img.shields.io/github/stars/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/fork)
+[![Stars](https://img.shields.io/github/stars/Teamvampir/sessionbot?style=social)](https://github.com/Teamvampir/sessionbot/stargazers)
+  [![Forks](https://img.shields.io/github/forks/Teamvampir/sessionbot?style=social)](https://github.com/Teamvampir/sessionbot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -25,7 +25,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/StringGenBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Teamvampir/sessionbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -46,7 +46,4 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousX1025)
-- » [Shivang](https://github.com/ShivangKakkar)
-- » [Dan Tès](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-- » [Lonami](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
+- » [Logesh](https://github.com/dev-logesh)
