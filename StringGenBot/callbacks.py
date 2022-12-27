@@ -36,12 +36,16 @@ async def _callbacks(bot: Client, callback_query: CallbackQuery):
             await callback_query.message.reply(ERROR_MESSAGE.format(str(e)))
 
     elif query == "about":
-        await Client.send_message(
-       chat_id, "**ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴘᴀʀᴛ ᴏꜰ ᴛʜᴇ ᴛᴇᴀᴍ ᴠᴀᴍᴘɪʀᴇ ɴᴇᴛᴡᴏʀᴋ**",
-    reply_markup=InlineKeyboardMarkup(
-        [
-            [InlineKeyboardButton("♡ ᴛᴇᴀᴍ ᴠᴀᴍᴘɪʀᴇ ɴᴇᴛᴡᴏʀᴋ ♡", url="https://t.me/TEAM_VAMPIR")],
-        ]))
+                await msg.reply_photo(
+                    photo="https://te.legra.ph/file/7ab7d5a4ca9aadfef8943.jpg", caption=f"ɪ ᴀᴍ ᴀ ᴘᴀʀᴛ ᴏꜰ ᴛᴇᴀᴍ ᴠᴀᴍᴘɪʀᴇ ɴᴇᴛᴡᴏʀᴋ , ᴀɴᴅ ɪ ᴘᴏᴡᴇʀꜰᴜʟ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ",
+                    reply_markup=InlineKeyboardMarkup(
+                        [
+                            [
+                                InlineKeyboardButton("♡ ᴛᴇᴀᴍ ᴠᴀᴍᴘɪʀᴇ ɴᴇᴛᴡᴏʀᴋ ♡", url="https://t.me/TEAM_VAMPIR"),
+                            ]
+                        ]
+                    )
+                )
 
        
 

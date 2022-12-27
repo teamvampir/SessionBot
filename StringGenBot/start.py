@@ -18,18 +18,21 @@ Tʜɪs ɪs {me2},
 
 ᴍʏ ꜰᴇᴀᴛᴜʀᴇꜱ :
 
-🟀 ᴇᴀꜱʏ ᴛᴏ ᴀᴄᴄᴇꜱꜱ 
-🟀 ɴᴏ ᴅᴏᴡɴᴛɪᴍᴇ
-🟀 ʏᴏᴜ ᴄᴀɴ ɢᴇɴᴇʀᴀᴛᴇ ᴀɴʏ ᴠᴇʀꜱɪᴏɴ ᴏꜰ ꜱᴇꜱꜱɪᴏɴ
-🟀ʏᴏᴜ ᴄᴀɴ ᴇᴀꜱɪʟʏ ɢᴇɴʀᴇᴀᴛᴇ ᴛʜᴇ  ꜱᴇꜱꜱɪᴏɴ ᴠɪᴀ ʙᴏᴛ ᴛᴏᴋᴇɴ
+★ ᴇᴀꜱʏ ᴛᴏ ᴀᴄᴄᴇꜱꜱ 
+★ ɴᴏ ᴅᴏᴡɴᴛɪᴍᴇ
+★ ʏᴏᴜ ᴄᴀɴ ɢᴇɴᴇʀᴀᴛᴇ ᴀɴʏ ᴠᴇʀꜱɪᴏɴ ᴏꜰ ꜱᴇꜱꜱɪᴏɴ
+★ʏᴏᴜ ᴄᴀɴ ᴇᴀꜱɪʟʏ ɢᴇɴʀᴇᴀᴛᴇ ᴛʜᴇ  ꜱᴇꜱꜱɪᴏɴ ᴠɪᴀ ʙᴏᴛ ᴛᴏᴋᴇɴ
 
-Mᴀᴅᴇ ᴡɪᴛʜ  : [✶ ᴛᴇᴀᴍ ᴠᴀᴍᴘɪʀᴇ ɴᴇᴛᴡᴏʀᴋ ✶](https://t.me/TEAM_VAMPIR) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ  : [✶ ᴛᴇᴀᴍ ᴠᴀᴍᴘɪʀᴇ ɴᴇᴛᴡᴏʀᴋ ✶](https://t.me/TEAM_VAMPIR) [!](https://te.legra.ph/file/7ab7d5a4ca9aadfef8943.jpg)""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate"),
-                    InlineKeyboardButton("🥀 ᴀʙᴏᴜᴛ🥀", callback_data="about")
+                    InlineKeyboardButton("✨ ꜱᴜᴘᴘᴏʀᴛᴇʀꜱ ✨", url="tg://settings"),
+                    InlineKeyboardButton("✨ ᴀʙᴏᴜᴛ✨", callback_data="about"),
                 ],
+                [
+                     InlineKeyboardButton(text="🪄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🪄", callback_data="generate"),
+                ]
             ]
         ),
         disable_web_page_preview=True,
