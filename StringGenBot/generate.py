@@ -3,7 +3,8 @@ from telethon import TelegramClient
 from pyrogram import Client, filters
 from pyrogram1 import Client as Client1
 from asyncio.exceptions import TimeoutError
-from telethon.sessions import StringSession
+from telethon import TelegramClient, sync
+from telethon import sessions
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.errors import (
     ApiIdInvalid,
@@ -112,9 +113,9 @@ async def generate_session(bot: Client, msg: Message, telethon=False, old_pyro: 
     else:
         await msg.reply("» ᴛʀʏɪɴɢ ᴛᴏ ʟᴏɢɪɴ ᴠɪᴀ ʙᴏᴛ ᴛᴏᴋᴇɴ...")
     if telethon and is_bot:
-        client = TelegramClient(StringSession(), api_id, api_hash)
+        client = TelegramClient(sessions(), api_id, api_hash)
     elif telethon:
-        client = TelegramClient(StringSession(), api_id, api_hash)
+        client = TelegramClient(sessions(), api_id, api_hash)
     elif is_bot:
         client = Client(name="bot", api_id=api_id, api_hash=api_hash, bot_token=phone_number, in_memory=True)
     elif old_pyro:
