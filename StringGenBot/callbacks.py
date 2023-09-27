@@ -36,7 +36,7 @@ async def _callbacks(bot: Client, callback_query: CallbackQuery):
             await callback_query.message.reply(ERROR_MESSAGE.format(str(e)))
 
     elif query == "about":
-                await callback_query.message.reply("**ɪ ᴀᴍ ᴀ ᴘᴀʀᴛ ᴏꜰ [ᴛᴇᴀᴍ ᴠᴀᴍᴘɪʀᴇ ɴᴇᴛᴡᴏʀᴋ](https://t.me/TEAM_VAMPIR) , ᴀɴᴅ ɪ ᴘᴏᴡᴇʀꜰᴜʟ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ**")
+                await callback_query.message.reply("**ɪ ᴀᴍ ᴀ ᴘᴀʀᴛ ᴏꜰ [ᴛᴇᴀᴍ ᴠᴀᴍᴘɪʀᴇ ɴᴇᴛᴡᴏʀᴋ](https://t.me/TMK_MUSICCHANNEL) , ᴀɴᴅ ɪ ᴘᴏᴡᴇʀꜰᴜʟ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ**")
        
 
 
