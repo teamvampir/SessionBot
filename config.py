@@ -6,7 +6,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "13382500"))
 API_HASH = getenv("API_HASH", "6f5691b23c6f032eaae722e96d7e2459")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "5873474775:AAG982rUOp_Dl1R0oweDUH_0GccAuo_uZTo")
+BOT_TOKEN = getenv("BOT_TOKEN", "5873474775:AAGzEHXZM5zpBvFlTVR8Sbpz0x1auryhouo")
 OWNER_ID = int(getenv("OWNER_ID", "6102257906"))
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://bommi:bommi@cluster0.aobxtp5.mongodb.net/?retryWrites=true&w=majority")
