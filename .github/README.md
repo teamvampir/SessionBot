@@ -5,8 +5,8 @@
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
 
  
-[![Stars](https://img.shields.io/github/stars/Teamvampir/sessionbot?style=social)](https://github.com/Teamvampir/sessionbot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/Teamvampir/sessionbot?style=social)](https://github.com/Teamvampir/sessionbot/fork)
+[![Stars](https://img.shields.io/github/stars/TMK_MUSICCHANNEL/sessionbot?style=social)](https://github.com/TMK_MUSICCHANNEL/sessionbot/stargazers)
+  [![Forks](https://img.shields.io/github/forks/TMK_MUSICCHANNEL/sessionbot?style=social)](https://github.com/TMK_MUSICCHANNEL/sessionbot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -25,7 +25,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Teamvampir/sessionbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TMK_MUSICCHANNEL/sessionbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 

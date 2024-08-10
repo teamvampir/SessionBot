@@ -2,12 +2,11 @@ from os import getenv
 from dotenv import load_dotenv
 
 load_dotenv()
+API_ID = int(getenv("API_ID", "19197570"))
+API_HASH = getenv("API_HASH", "0401e837796d193ec9ae6e17cb8cfbf8")
 
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+BOT_TOKEN = getenv("BOT_TOKEN", "5873474775:AAG6GEMDmLcfCgkApHBlrroHeim0khbWsss")
+OWNER_ID = int(getenv("OWNER_ID", "6798074818"))
 
-BOT_TOKEN = getenv("BOT_TOKEN")
-OWNER_ID = int(getenv("OWNER_ID"))
-
-MONGO_DB_URI = getenv("MONGO_DB_URI")
-MUST_JOIN = getenv("MUST_JOIN", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://monivps5:monivps5@cluster0.kmbq8we.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MUST_JOIN = getenv("MUST_JOIN", "TMK_MUSICCHANNEL")
