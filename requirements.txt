@@ -5,3 +5,5 @@ pyromod==1.5
 python-dotenv==0.21.0
 Telethon==1.26.1
 TgCrypto==1.2.5
+git+https://github.com/logesh-works/pyrogram-v1
+pyrogram==2.0.79
