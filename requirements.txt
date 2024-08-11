@@ -1,7 +1,6 @@
 dnspython==2.2.1
 motor==3.1.1
 psutil==5.9.4
-pyromod==1.5
 pyrogram==2.0.106
 oldpyro==0.1.0
 python-dotenv==0.21.0
